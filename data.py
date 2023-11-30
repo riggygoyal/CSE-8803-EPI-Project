@@ -15,7 +15,7 @@ region_10 = ['WA', 'OR', 'ID']
 
 titles, temperatures, regions, regional_illnesses, dates = [], [], [], [], []
 
-weeks = 1 # Last n weeks of data
+weeks = 260 # Last n weeks of data
 
 for i in range(weeks):
     request_date = date(2023, 10, 28) - timedelta(i * 7)
