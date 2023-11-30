@@ -7,6 +7,7 @@ import matplotlib.pyplot as plt
 
 # Load the dataset
 df = pd.read_csv('260_weeks_data.csv')
+df = df.drop([i for i in range(1380, 1910)])
 
 # Filter data for region 10
 df_region_10 = df[df['Region'] == 10]
@@ -55,8 +56,9 @@ print(f'Test RMSE with Grid Search: {rmse}')
 # Plot the actual vs predicted values for the last weeks
 plt.plot(np.array(df_region_10.index[-len(y_test):]), np.array(y_test), label='Actual')
 plt.plot(np.array(df_region_10.index[-len(y_test):]), y_pred, label='Predicted')
-plt.xlabel('Week of')
+plt.xlabel('Time')
 plt.ylabel('Regional Illnesses')
 plt.title('XGBoost Model with Grid Search - Actual vs Predicted')
+plt.xticks(rotation=45)
 plt.legend()
 plt.savefig('XGBoost_Plot_Region10.png')
