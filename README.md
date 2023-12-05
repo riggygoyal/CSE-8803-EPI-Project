@@ -2,4 +2,4 @@
 
 | Sai Nikhil Vangala         | Rigved Goyal        | Suchet Sapre  |
 | ------------ | ------------- | ------------------ | 
-| <img src="/CSE-8803-EPI-Project/WebPage_items/Nikhil.png" alt="Sai Nikhil Vangala" width="300"/> | <img src="/CSE-8803-EPI-Project/WebPage_items/Rigved.jpeg" alt="Rigved Goyal" width="300"/>    | <img src="/CSE-8803-EPI-Project/WebPage_items/Suchet.jpeg" alt="Suchet Sapre" width="300"/> | 
+| <img src="/CSE-8803-EPI-Project/SRC/WebPage_items/Nikhil.png" alt="Sai Nikhil Vangala" width="300"/> | <img src="/CSE-8803-EPI-Project/SRC/WebPage_items/Rigved.jpeg" alt="Rigved Goyal" width="300"/>    | <img src="/CSE-8803-EPI-Project/SRC/WebPage_items/Suchet.jpeg" alt="Suchet Sapre" width="300"/> | 
