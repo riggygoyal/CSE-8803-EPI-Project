@@ -4,11 +4,9 @@
 | ------------ | ------------- | ------------------ | 
 | <img src="/CSE-8803-EPI-Project/SRC/WebPage_items/Nikhil.png" alt="Sai Nikhil Vangala" width="300"/> | <img src="/CSE-8803-EPI-Project/SRC/WebPage_items/Rigved.jpeg" alt="Rigved Goyal" width="300"/>    | <img src="/CSE-8803-EPI-Project/SRC/WebPage_items/Suchet.jpeg" alt="Suchet Sapre" width="300"/> | 
 
-<center>
-| Research Paper | Software Tar-Ball Files| Final Presentation| Github Repository |
-| ------------ | ------------- | ------------------ | ------------------|
-| Link | Link | Link | Link |
-</center>
+| Research Paper | Software Tar-Ball Files | Final Presentation |
+| :------------: | :-------------: | :------------------: |
+| [Link](https://drive.google.com/file/d/1Qtlmx4xGowvhPmKufNOclSQtN9B4qDiK/view?usp=sharing) | [Link] | [Link](https://drive.google.com/file/d/1kBu6GmnnIw3cpwwhmtaXdV2uty25wEB8/view?usp=sharing) |
 
 The alarming increase in the frequency and intensity of heat waves in recent years, fueled by the ongoing climate change, presents a substantial and urgent threat to public health worldwide. As global temperatures continue to rise, the need to predict, understand, and mitigate heat-related illnesses (HRIs) has become a paramount concern for scientists, policymakers, and healthcare professionals. This research project embarked on a multifaceted exploration of the intricate correlations between temperature and HRIs, with a primaryfocus on the Pacific Northwest region, a geographical area emblematic of the climate challenges faced by diverse communities. This study aimed to reveal the nuanced dimensions of heat vulnerability, which can vary significantly from place to place. The ultimate goal was to contribute to the development of early warning systems and strategies that safeguard vulnerable populations not only in the Pacific Northwest but also in other regions, addressing the adverse effects of rising temperatures and heat-related health problems on a global scale.
 
