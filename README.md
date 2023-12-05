@@ -7,3 +7,7 @@ Rigved Goyal
 
 <img src="/CSE-8803-EPI-Project/WebPage_items/Rigved.jpeg" alt="Rigved Goyal" width="300"/>
 
+Suchet Sapre
+
+<img src="/CSE-8803-EPI-Project/WebPage_items/Suchet.jpeg" alt="Suchet Sapre" width="300"/>
+
