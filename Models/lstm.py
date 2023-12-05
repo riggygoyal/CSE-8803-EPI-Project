@@ -31,7 +31,7 @@ def create_model(shape=(1,1,1), units=50, dropout_rate=0.2, learning_rate=0.001,
     return model
 
 # Load your time series data
-df = pd.read_csv('sample_data/260_weeks_data.csv')
+df = pd.read_csv('260_weeks_data.csv')
 
 # Filter data for region 10
 df_region_10 = df[df['Region'] == 10]
@@ -92,6 +92,9 @@ print(f'Test RMSE with Grid Search: {best_rmse}')
 # Plot predictions against actual values
 plt.plot(np.array(df_region_10.index[-len(y_test):]), np.array(y_test), label='Actual')
 plt.plot(np.array(df_region_10.index[-len(y_test):]), best_predictions, label='Predicted')
-plt.xlabel('Week of')
+plt.xlabel('Time')
 plt.ylabel('Regional Illnesses')
+plt.title('LSTM Model with Grid Search - Actual vs Predicted')
+plt.xticks(rotation=45)
+plt.tight_layout()
 plt.legend()
