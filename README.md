@@ -6,6 +6,7 @@
 
 | Research Paper | Software Tar-Ball Files| Final Presentation| Github Repository |
 | ------------ | ------------- | ------------------ | ------------------|
+| Link | Link | Link | Link |
 
 The alarming increase in the frequency and intensity of heat waves in recent years, fueled by the ongoing climate change, presents a substantial and urgent threat to public health worldwide. As global temperatures continue to rise, the need to predict, understand, and mitigate heat-related illnesses (HRIs) has become a paramount concern for scientists, policymakers, and healthcare professionals. This research project embarked on a multifaceted exploration of the intricate correlations between temperature and HRIs, with a primaryfocus on the Pacific Northwest region, a geographical area emblematic of the climate challenges faced by diverse communities. This study aimed to reveal the nuanced dimensions of heat vulnerability, which can vary significantly from place to place. The ultimate goal was to contribute to the development of early warning systems and strategies that safeguard vulnerable populations not only in the Pacific Northwest but also in other regions, addressing the adverse effects of rising temperatures and heat-related health problems on a global scale.
 
